@@ -8,6 +8,8 @@ Built as a first-year mechanical engineering student after getting tired of rest
 
 ## What I Built
 
+![Azure VM Overview](azure-vm-overview.png)
+
 A cloud-hosted tunneling server running on Azure, configured with:
 
 - **3x-UI** panel for managing inbound/outbound connections
@@ -20,6 +22,8 @@ The server runs 24/7 on a Standard Azure VM with a static public IP, and connect
 ---
 
 ## Stack
+
+![3x-UI Dashboard](3xui-dashboard.png)
 
 | Layer | Tool |
 |---|---|
@@ -45,6 +49,8 @@ The server runs 24/7 on a Standard Azure VM with a static public IP, and connect
 ---
 
 ## Setup Overview
+
+![SSH Terminal](terminal-ssh.png)
 
 > Not a step-by-step tutorial.
 
